@@ -1,4 +1,4 @@
 # Calculator
-A basic Android Calculator. \n
+A basic Android Calculator. <br/>
 UserName = admin
 Password = admin
