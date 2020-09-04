@@ -1,4 +1,4 @@
 # Calculator
 A basic Android Calculator. <br/>
-UserName = admin
+UserName = admin <br/>
 Password = admin
